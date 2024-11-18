@@ -1,6 +1,9 @@
 # Evolutionary Algorithms Painting
 ### Author: Virendrasinh Chavda
+
+<p align="justify">
 This repository showcases the use of <strong>evolutionary algorithms</strong> to generate abstract paintings by approximating a target image. The project demonstrates the capability of algorithms inspired by natural selection to optimize artistic approximations through iterative improvements in fitness.
+</p>
 
 ---
 
@@ -31,19 +34,10 @@ To set up and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/evolutionary-painting.git
+   git clone https://github.com/VirendraChavda/Evolutionary-Algorithms.git
    cd evolutionary-painting
    ```
-2. Create a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Launch the Jupyter Notebook:
+2. Launch the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
